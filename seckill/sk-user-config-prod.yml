@@ -1,3 +1,5 @@
 foo: tangxw-prod
 mysql:
   url: jdbc:mysql://47.106.187.24:3308/seckill?characterEncoding=UTF-8&autoReconnect=true&useSSL=true
+server:
+  port: 8762
