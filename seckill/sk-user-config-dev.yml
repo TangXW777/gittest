@@ -1,6 +1,4 @@
-foo:
-  tangxw-dev
+foo: tangxw-dev
 mysql:
-	password:
-		123456
+	password: 123456
 		
