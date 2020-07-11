@@ -1,4 +1,3 @@
 foo: tangxw-dev17
-server.port: 8763
 mysql:
   url: jdbc:mysql://47.106.187.242:3308/seckill?characterEncoding=UTF-8&autoReconnect=true&useSSL=true
